@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleSetup</string>
+    <string name="lang_select_title">Please choose your language</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">Prev</string>
+    <string name="btn_scan">Scan</string>
+    <string name="info_title">Please turn on mega macsX before scanning</string>
+    <string-array name="language_option">
+        <item>English</item>
+        <item>繁體中文</item>
+    </string-array>
+</resources>

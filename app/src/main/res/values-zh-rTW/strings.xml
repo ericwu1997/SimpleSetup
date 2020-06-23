@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">簡易設定</string>
+    <string name="lang_select_title">請選擇您的語言</string>
+    <string name="btn_next">下一步</string>
+    <string name="btn_prev">上一步</string>
+    <string name="btn_scan">掃瞄</string>
+    <string name="info_title">請在點擊掃描之前打開mega macsX</string>
+</resources>
